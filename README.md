@@ -1,39 +1,3 @@
-
-Navigation Menu
-Vidits3501
-/
-Viditsri
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Add files via upload
-Beta
-Give feedback
-Vidits3501
-Vidits3501
-committed
-1 minute ago
-Verified
-main
-0 parents  commit 
-1eadbee
-File tree
-Filter files…
-viditsresume.html
-1 file changed
-+137
--0
-lines changed
-viditsresume.html
-+137
-Original file line number	Diff line number	Diff line change
 <html lang="en">
 <head>
     <meta charset="UTF-8">
